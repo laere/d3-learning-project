@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-transform-boilerplate.git"
+    "url": "https://github.com/laere/d3-learning.project.git"
   },
-  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "author": "Zack Bostian <bostianz@gmail.com> (http://github.com/laere)",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/gaearon/react-transform-boilerplate/issues"
+    "url": "https://github.com/laere/d3-learning.project/issues"
   },
-  "homepage": "https://github.com/gaearon/react-transform-boilerplate",
+  "homepage": "https://github.com/laere/d3-learning.project",
   "devDependencies": {
     "babel-core": "^6.6.5",
     "babel-eslint": "^5.0.0-beta4",
