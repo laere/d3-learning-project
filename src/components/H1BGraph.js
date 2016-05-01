@@ -1,7 +1,17 @@
 import React, { Component } from 'react';
 import d3 from 'd3';
+import _ from 'lodash';
 
-class H1BGraph extends React.Component {
+//helper functions
+String.prototype.capitalize = function() {
+  return this.charAt(0).toUpperCase() + this.slice(1);
+}
+
+String.prototype.decapitalize = function() {
+  return this.charAt(0).toLowerCase() + this.slice(1);
+}
+
+class H1BGraph extends Component {
   constructor(props) {
     super(props);
 
